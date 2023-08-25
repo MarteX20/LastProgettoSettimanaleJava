@@ -13,7 +13,7 @@ public class ProgApplication {
 		FireControlProcess controlProcess = new FireControlProcess(communicationChannel);
 		FireSensor fireSensor = new FireSensor(controlProcess);
 
-		// Simuliamo il rilevamento di un incendio con livello di fumo 6
+		//Simuliamo il rilevamento di un incendio con livello di fumo 6
 		fireSensor.detectFire(6, 123, 40.7128, -74.0060);
 	}
 
