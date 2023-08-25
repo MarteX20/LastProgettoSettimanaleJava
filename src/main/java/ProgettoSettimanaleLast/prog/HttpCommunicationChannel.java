@@ -1,4 +1,4 @@
 package ProgettoSettimanaleLast.prog;
 
-public class HttpCommunicationChannel {
+public class HttpCommunicationChannel{
 }
